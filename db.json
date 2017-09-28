@@ -1,0 +1,18 @@
+[
+  "name": "default",
+  "default": true,
+  "cards": {
+    "title": "Platform",
+    "category": {
+      "name": "STOPUS",
+      "avatar": "base64image"
+    },
+    "questions": [{
+      "text": "question"
+    }],
+    "hints": [{
+      "text": "hint"
+    }]
+  }
+  "logo": "base64image"
+]
