@@ -1,7 +1,7 @@
 {
   "name" : "default",
   "default" : true,
-  "cards" : {
+  "cards" : [{
     "title": "Platform",
     "category": {
       "name": "STOPUS",
@@ -13,6 +13,6 @@
     "hints": [{
       "text": "hint"
     }]
-  },
+  }],
   "logo" : "base64image"
 }
